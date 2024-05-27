@@ -26,7 +26,7 @@
 
 
 #About{
-    background-image: url(img/background.jpg);
+    background-image: url(img/bg!.jpg);
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -72,6 +72,8 @@
 img.fon{
     margin: 0 auto;
     display: block;
+    width: 793px;
+    height: 502px;
 }
 
 img.person{
@@ -84,6 +86,8 @@ img.person{
     margin: auto;
     margin: 0 auto;
     padding: 70px;
+    width: 500px;
+    height: 500px;
 }
 
 .about-me{
@@ -132,7 +136,7 @@ img.person{
     border-radius: 10px;
     padding: 10px 20px;
     width: 13%;
-    color: blue;
+    color: rgb(23, 58, 29);
     
 }
 
@@ -163,7 +167,7 @@ img.person{
     border-radius: 10px;
     padding: 10px 20px;
     width: 13%;
-    color: blue;  
+    color: rgb(23, 58, 29);  
     
 }
 
@@ -180,7 +184,7 @@ img.person{
     width: 100%;
     height: 100px;
     border: 2px solid;
-    background-color: black;
+    background-color: rgb(30, 48, 32);
     
     
     
@@ -225,7 +229,7 @@ img.person{
 }
 
 .authorization{
-    background-color: black;
+    background-color: rgb(18, 44, 17);
     width: 705px;
     height: 500px;
     margin: auto;
@@ -267,7 +271,7 @@ label[for="remember_me"] {
 }
 
 button {
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     width: 110px;
     height: 50px;
     color: #fff;
@@ -291,7 +295,7 @@ button:hover {
 }
 
 form input[type="login"]{
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     border: 0;
     width: 520px;
     height: 30px;
@@ -302,7 +306,7 @@ form input[type="login"]{
 }
 
 form input[type="password"]{
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     border: 0;
     width: 520px;
     height: 30px;
@@ -313,7 +317,7 @@ form input[type="password"]{
 }
 
 form input[type="email"]{
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     border: 0;
     width: 525px;
     height: 30px;
@@ -324,7 +328,7 @@ form input[type="email"]{
 }
 
 form input[type="name"]{
-    background-color: rgb(44, 43, 46);
+    background-color:rgb(51, 66, 51);
     border: 0;
     width: 525px;
     height: 30px;
@@ -335,7 +339,7 @@ form input[type="name"]{
 }
 
 .feedback{
-    background-color: black;
+    background-color: rgb(18, 44, 17);
     width: 700px;
     height: 1000px;
     margin: auto;
@@ -364,7 +368,7 @@ form input[type="radio"]{
 }
 
 select{
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     color: #fff;
     border: 0;
     width: 525px;
@@ -376,7 +380,7 @@ select{
 }
 
 form input[type="text-mes"]{
-    background-color: rgb(44, 43, 46);
+    background-color: rgb(51, 66, 51);
     border: 0;
     width: 525px;
     height: 100px;
